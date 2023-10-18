@@ -8,11 +8,6 @@
 ![](图片/机器学习彩图版-偏差和方差的权衡.png)
 <center>机器学习彩图版-偏差和方差的权衡</center>
 
-## 机器学习宝典内容汇总
-百度网盘打包下载本资源：
-+ 链接：https://pan.baidu.com/s/1OLscfquhYKOuN7X-QVqQNA
-+ 提取码：6g4l
-
 |标签|名称|说明|
 |-|-|-|
 |养兴趣|[机器学习知识点彩图版.pdf](https://raw.githubusercontent.com/yuanxiaosc/Machine-Learning-Book/master/PDF/机器学习知识点彩图版.pdf)|以生动形象的图片描述机器学习中的知识点。|
